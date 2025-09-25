@@ -5,6 +5,8 @@ draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_hw4.xls
 file_size: 395776
 file_type: application/vnd.ms-excel
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
