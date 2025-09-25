@@ -1,0 +1,77 @@
+leftnav:
+- identifier: f1dee39d-0c72-485c-a3f6-e9f7dd6e85f8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d7b7e804-d8d2-4f8b-9d95-d4c568d245ef
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 06372928-dc6b-4f78-9b44-8a0ff80e2c9f
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  name: Units
+  pageRef: /pages/unit-orientations
+  weight: 40
+- identifier: 4f45d5c4-5144-4091-a0a6-3080b6ce480f
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 50
+- identifier: a9dea254-394d-4c17-acae-73a0a0167280
+  name: Assignments
+  pageRef: /pages/assignments2
+  weight: 60
+- identifier: 582dced8-621a-4658-935f-fe0f5304a4bf
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 70
+- identifier: 294deb3a-bba4-40cd-b009-cfc039e11fb6
+  name: Student Projects
+  pageRef: /pages/student-projects
+  weight: 80
+- identifier: 2e248694-f79c-4597-8e3a-5efd15bede1f
+  name: Videos
+  pageRef: /video_galleries/videos
+  weight: 90
+- identifier: 11bb4ef9-6cf9-4bac-bb0b-00208a4b5236
+  name: Unit 2
+  pageRef: /pages/orientation-2
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 10
+- identifier: 99bc49a0-d592-45a8-8c16-e90bf055b47b
+  name: Unit 3
+  pageRef: /pages/assignment-2
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 20
+- identifier: ae675aea-581d-461a-afc4-806acbba6a64
+  name: Unit 4
+  pageRef: /pages/orientation-4
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 30
+- identifier: 50d052ed-fabf-4499-8fcf-03062500fc9d
+  name: Unit 5
+  pageRef: /pages/assignment-5
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 40
+- identifier: 53e18e36-4c42-4735-a7ec-9194fe3dcb43
+  name: Unit 7
+  pageRef: /pages/assignment-7
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 50
+- identifier: 2dee623e-4cb8-497c-b447-d8f320b0c253
+  name: Unit 8
+  pageRef: /pages/assignment-8
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 60
+- identifier: 394085d7-deef-49ed-bbba-da79161001a8
+  name: Unit 10
+  pageRef: /pages/orientation-9
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 70
+- identifier: ef171f2e-e5b1-481a-883a-a2a32136a9e7
+  name: Unit 11
+  pageRef: /pages/orientation-10
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  weight: 80
