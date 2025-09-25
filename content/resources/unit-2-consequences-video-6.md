@@ -5,6 +5,8 @@ draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit-2-consequences-video-6_360p_16_9.mp4
 file_size: 7172232
 file_type: video/mp4
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -5,6 +5,8 @@ draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/ids-333f21-th.jpg
 file_size: 11903
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
